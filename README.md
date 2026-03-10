@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Manoj 👋
 
-<!--
-**unnammanojkumarnaidu/unnammanojkumarnaidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BSc (Hons) Data Science & Artificial Intelligence student at the University of East London.
 
-Here are some ideas to get you started:
+Currently learning:
+- Java
+- JavaScript
+- HTML
+- CSS
+- Software Development fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub documents my learning journey and projects during my degree.
+
+Future areas I plan to explore:
+- Python
+- Data Science
+- Machine Learning
+- Artificial Intelligence
